@@ -14,6 +14,8 @@ Then you will want to run `npm run sendToLambda`.
 
 Tested on Node v12.4.0 and NPM v6.9.0.
 
+In AWS only work to Node v14.x.
+
 ### Installing
 
 After installing [NodeJS](https://nodejs.org/en/) you should be able to just run the following in the terminal.
